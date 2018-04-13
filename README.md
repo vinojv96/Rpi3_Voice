@@ -20,7 +20,7 @@ It takes sometime if your build is old.
 ## step2
 install `swig`, `sox`, `portaudio` and its Python binding `pyaudio` :
 
-    sudo apt-get install swig3.0 python-pyaudio python3-pyaudio sox`
+    sudo apt-get install swig3.0 python-pyaudio python3-pyaudio sox
 
     pip install pyaudio
 
